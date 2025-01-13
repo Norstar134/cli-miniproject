@@ -1,8 +1,8 @@
-# deanna-miniproject
+# cli-miniproject
 
 ## Project Background
 
-For the mini project I had to code an application that helps a small pop-up cafe keep track of products, couriers and orders and persists the data. As well as, persisting the data, it must allow them to update and delete items.
+For this mini project, which was completed on a bootcamp, I had to code an application that helps a small pop-up cafe keep track of products, couriers and orders and persists the data. As well as, persisting the data, it must allow them to update and delete items.
 
 ## Client Requirements
 
